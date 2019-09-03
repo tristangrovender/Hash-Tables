@@ -3,6 +3,7 @@
 # '''
 # Basic hash table key/value pair
 # '''
+
 class Pair:
     def __init__(self, key, value):
         self.key = key
